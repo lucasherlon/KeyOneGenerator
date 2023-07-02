@@ -1,2 +1,2 @@
 # KeyOneGenerator
-KeyOne phrases Generator
+KeyOne phrases Generator made with ReactJs. 
