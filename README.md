@@ -1,2 +1,2 @@
 # KeyOneGenerator
-KeyOne phrases Generator made with ReactJs. 
+KeyOne motivational phrases generator made with ReactJs. 
