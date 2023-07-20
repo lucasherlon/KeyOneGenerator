@@ -28,7 +28,7 @@ function Main() {
         <img src={Keyone} alt='mini Keyone photo' className='app-keyone' />
       </figure>
       <section className='app--box'>
-        <button onClick={() => setIndex(Math.floor(Math.random() * 28))}>Gerar frase motivacional</button>
+        <button onClick={() => setIndex(Math.floor(Math.random() * 29))}>Gerar frase motivacional</button>
         <section className='app--text'>
           <Frase index={index} />
         </section>
