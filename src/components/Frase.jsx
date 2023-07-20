@@ -27,7 +27,8 @@ function Frase({index}) {
         'Porra Douglas!',
         'Bó jogar sinuca',
         'Calma aí Krl',
-        'Oh muié do Rabão'
+        'Oh muié do Rabão',
+        'É o seguinte'
     ]
 
     return (
