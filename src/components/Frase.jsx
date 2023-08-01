@@ -28,7 +28,8 @@ function Frase({index}) {
         'Bó jogar sinuca',
         'Calma aí Krl',
         'Oh muié do Rabão',
-        'É o seguinte'
+        'É o seguinte',
+        'Mais um certificado pro pai'
     ]
 
     return (
