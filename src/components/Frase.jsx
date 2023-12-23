@@ -29,7 +29,8 @@ function Frase({index}) {
         'Calma aí Krl',
         'Oh muié do Rabão',
         'É o seguinte',
-        'Mais um certificado pro pai'
+        'Mais um certificado pro pai',
+        'Calma aí, tão comendo meu cu agora'
     ]
 
     return (
